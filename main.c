@@ -52,9 +52,9 @@ PSP_MODULE_INFO("GTANativeResolution", 0, 1, 0);
 
 #define DRAW_NATIVE 0x4BCDEF00
 
-#define PITCH 960
-#define WIDTH 960
-#define HEIGHT 544
+#define PITCH 800
+#define WIDTH 800
+#define HEIGHT 448
 #define PIXELFORMAT 0
 
 #define DISPLAY_BUFFER 0x0A400000
